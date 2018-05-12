@@ -44,8 +44,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call or contact any of these individuals:
 
--  Paul Hallett at 07943511601
--  Orlando at orlando@mashape.com
+-  Tom Harris - tom.harris@tomharris.co.uk
 
 LondonAPI staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
@@ -147,4 +146,4 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 ## License
 
-This Code of Conduct was forked from the [Pycon US policy](https://github.com/python/pycon-code-of-conduct), which was originally forked from the [Geek Feminism wiki, created by the Ada Initiate and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero](http://creativecommons.org/licenses/by/3.0/) license.
+This Code of Conduct was forked from [Phalt](https://github.com/phalt/londonapi-code-of-conduct), which was originally fork from [Pycon US policy](https://github.com/python/pycon-code-of-conduct) and previously forked from the [Geek Feminism wiki, created by the Ada Initiate and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero](http://creativecommons.org/licenses/by/3.0/) license.
